@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atul Kondhare</h1>
 <h3 align="center">A passionate Automation Test Engineer from Pune,India.</h3>
 
+- 🔭 I’m currently working on [REST-API Automation](https://github.com/akonk/REST_API_Framework)
+
 - 🌱 I’m currently learning **Cypress[JavaScript Based End to End Testing Framework]**
+
+- My Completed Project [BookMyShow- A movie Booking Application](https://github.com/akonk/Selenium-Hybrid-Framework)
 
 - 💬 Ask me about **Selenium ,REST-API ,Cucumber And Appium**
 
